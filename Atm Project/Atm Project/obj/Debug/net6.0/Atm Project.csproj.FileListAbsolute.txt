@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\bin\Debug\net6.0\Atm Project.exe
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\bin\Debug\net6.0\Atm Project.deps.json
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\bin\Debug\net6.0\Atm Project.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\bin\Debug\net6.0\Atm Project.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\bin\Debug\net6.0\Atm Project.pdb
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\refint\Atm Project.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.pdb
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\Atm Project.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\Atm Project\Atm Project\obj\Debug\net6.0\ref\Atm Project.dll
